@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Cauê Marques Vieira
 
 **`Desenvolvedor`**
-Me chamo Cauê, tenho 22 anos e nasci em Brasília.
+Me chamo Cauê, tenho 22 anos.
 Estou cursando Análise e desenvolvimento de sistemas na Unip. Sou apaixonado por tecnologia e busco todos os dias aprimorar meu conhecimento, para que assim eu possa crescer cada vez mais na área. Gosto de desenvolver minha lógica seja fazendo simples sistemas, ou desenvolvendo websites, portifólios ou pequenos projetos. Meu objetivo principal é poder desenvolver um jogo com todas minhas caracteristicas e ideias. 
 Linkedin:
 [Cauê Vieira](www.linkedin.com/in/cauê-vieira-2847b324a).
